@@ -14,3 +14,11 @@ TODO:
 Notes for me:
   have picture of question and markscheme and transcribe
   
+ 
+People to get Qs from:
+  physics and maths tutor
+  study mind
+  save my exams
+  aqa
+  google
+  ask people
