@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.write("""
+goose = open("test.txt","r").readlines()
+st.write(f"""
 
 # hello world
-""")
+{goose[0]}
+# """)
